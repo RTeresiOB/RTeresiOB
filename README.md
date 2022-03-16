@@ -15,7 +15,7 @@ My active pure-coding projects include:
  - Improving upon a google maps activity scraper to collect data to eventually train a model that predicts future local restaurant activity levels.
  - Deploying my personal website
 
-If you are looking to collaborate on a project, drop me a message on my [LinkedIn](www.linkedin.com/in/rteresi). 
+If you are looking to collaborate on a project, drop me a message on my [LinkedIn](www.linkedin.com/in/rteresi) or send me an email at rkteresi@gmail.com. 
 
 <!--
 **RTeresiOB/RTeresiOB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
